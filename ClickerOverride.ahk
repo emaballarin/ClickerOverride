@@ -16,10 +16,10 @@ getWindowTitle() {
 	}	
 }
 
-*PgUp::
-	ControlSend,,{PgUp},% getWindowTitle()
+*Left::
+	ControlSend,,{Left},% getWindowTitle()
 	return
 
-*PgDn::
-	ControlSend,,{PgDn},% getWindowTitle()
+*Right::
+	ControlSend,,{Right},% getWindowTitle()
 	return
