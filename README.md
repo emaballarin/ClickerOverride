@@ -13,5 +13,4 @@ Usually, the `next slide` and `previous slide` keys on a clicker are really `lef
 ![ClickerOverrideGui Screenshot](screenshot.png)
 
 ## Download
-A pre-built executable can be downloaded [from here](https://bucket.ballarin.cc/exes/ClickerOverrideGui.exe)  
-(SHA512 checksum: ce03201489e32fab5c60f2e3a5cddbc80dd347970c55dee4cbdd4148398a1cbad348c3383cc370ba8f4fa70e0e0f0d9ed13a677242d425a600830053f94eeec8)
+A pre-built executable can be downloaded [from here](https://bucket.ballarin.cc/exes/ClickerOverrideGui.exe).
